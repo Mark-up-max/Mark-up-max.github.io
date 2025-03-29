@@ -1,0 +1,20 @@
+Win + A= Centre d'accès
+Win +B= Prmière icone de zone de notification
+Win +Ctrl+B= Sélectionne programme ayant un nouveau msg dans zone de notification
+Win +C= Ouvre cortana
+Win +E= Ouvre windows exploreur
+Win +F= Ouvre le hub de commentaire
+Win +Ctrl+F= Ouvre rechercher ordinateur
+Win +G= Ouvre la barre de jeux
+Win +K= Menu de connection
+Win +L= erme l'ecran
+Win +Shift+M= Restaure les drnières fenêtres réduites
+Win +O= Bloque l'orientation de l'appareil
+Win +P= Change le mode de projection
+Win +Q= Ouvre recherche d'applis
+Win +R= Choisit un programme a executer
+Win +W=Ouvre l'espace de travail photo
+Win +X= Ouvre le centre de commande
+crtl+p=Imprimer
+Ctrl+u=Html page
+
