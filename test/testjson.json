@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.monapp",
+      "sha256_cert_fingerprints": [
+        "043C7D3E0454DF467208B7FDC1F68328F828277085B28E15FE78CBE790E4A571"
+      ]
+    }
+  }
+]
